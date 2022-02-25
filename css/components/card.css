@@ -1,0 +1,19 @@
+.card {
+	background: black;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 80%);
+    margin-bottom: 20px;
+    border-radius: 20px;
+
+}
+
+.card h3 {
+color : yellow;
+}
+
+.car img{
+	border-radius: 20px;
+}
